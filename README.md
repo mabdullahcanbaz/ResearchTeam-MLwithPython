@@ -27,7 +27,7 @@ https://github.com/dlsucomet/MLResources/blob/master/books/%5BML%5D%20Introducti
 ## Topics to be covered in our studies:
 
 #### 1- Introduction
- First Example
+	 First Example
 
 #### 2- Supervised Learning
 	Classification VS Regression
